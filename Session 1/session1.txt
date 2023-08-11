@@ -1,0 +1,26 @@
+mkdir "Ahmad Alaa"
+cd "Ahmad Alaa"
+mkdir Documents
+cd Documents
+touch file1.txt file2.txt file3.txt
+ls
+cd -
+touch ".hidden_file"
+ls -a
+nano Documents/file1.txt
+cat Documents/file1.txt
+cd Documents
+mkdir "-"
+cd ..
+cd Documents/-
+cd
+cd "Ahmad Alaa"
+cp -r Documents My_Documets
+ls
+cat .hidden_file
+cd Documents
+ls
+mv file2.txt file3.txt ~/"Ahmad Alaa"
+cd 
+rm -r "Ahmad Alaa"
+ls
