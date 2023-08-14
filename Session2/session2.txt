@@ -1,0 +1,58 @@
+       ls
+       cd Downloads
+       ls
+       unzip Updated-Task-02.zip
+       cat README.txt 
+       ls
+       cd Updated-Task-02
+       ls
+       ls -a
+       tar -x .level-1.tar
+       tar -xf .level-1.tar
+       ls
+       cat README.txt
+       ls -a
+       cd level-1
+       cd .level-1
+       ls
+       ls -a
+       cat README.txt
+       file level-2
+       gunzip level-2
+       unzip level-2
+       gunzip level-2.gzip
+       gunzip level-2
+       tar -xf level-2
+       ls -a
+       cd level-2
+       ls -a
+       cat README.txt
+       find . -name level-3
+       cd gBT5u0vLT5
+       ls
+       cd level-3
+       file level-3
+       bunzip2 level-3
+       ls
+       bunzip2 level-3.out
+       file level-3.out
+       tar -xf level-3.out
+       ls
+       cd level-3
+       ls
+       cat README.txt
+       find . -type l
+       cd X6lkChfKsj
+       file X6lkChfKsj
+       cd X6lkChFKsj
+       file X6lkChFKsj
+       file WfUKyzFeEv
+       cat WfUKyzFeEv
+       find . -size 73b
+       find . -size 73c
+       cd m7lRDpRTUJ
+       ls
+       cd xVMvVOKNW5
+       file xVMvVOKNW5
+       cat xVMvVOKNW5
+    
