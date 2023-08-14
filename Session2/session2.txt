@@ -1,20 +1,16 @@
-       ls
+       
        cd Downloads
        ls
        unzip Updated-Task-02.zip
        cat README.txt 
        ls
        cd Updated-Task-02
-       ls
        ls -a
-       tar -x .level-1.tar
        tar -xf .level-1.tar
        ls
        cat README.txt
        ls -a
-       cd level-1
        cd .level-1
-       ls
        ls -a
        cat README.txt
        file level-2
@@ -48,7 +44,6 @@
        file X6lkChFKsj
        file WfUKyzFeEv
        cat WfUKyzFeEv
-       find . -size 73b
        find . -size 73c
        cd m7lRDpRTUJ
        ls
