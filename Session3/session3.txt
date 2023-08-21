@@ -1,1 +1,47 @@
 
+   step1
+   
+   sudo adduser osc
+   sudo groupadd osc_group
+   sudo usermod osc_group osc
+   sudo usermod sudo osc
+   su - osc
+   
+   step2
+   
+     mkdir permission_practice
+      
+      cd permission_practice
+      touch public_file.txt
+      chmod 666 public_file.txt
+      touch privte_file.txt
+     chmod 600  privte_file.txt
+    touch executable_script.sh
+     chmod 750 executable_script.sh
+     
+     step3
+     
+  
+   
+    
+     sudo chown pop-os private_file.txt
+    sudo chgrp osc_group private_file.txt
+    
+    step4
+    
+     sleep 1000
+     ps -a
+      
+      sudo kill 5315
+      vim
+    sudo killall vim
+     jobs
+     
+     kill -9 %1
+    ps -a
+    
+    step5
+    sudo apt install neofetch
+     sudo apt remove neofetch
+     
+   
